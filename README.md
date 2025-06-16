@@ -18,6 +18,6 @@ A simple console-based **Bank Management System** built in C. This project allow
 
 ```bash
 .
-├── bank1.c              # Main C source file
+├── bank1.c             # Main C source file
 ├── bankAccount.dat     # Binary file used to store account data
 └── README.md           # Project documentation
